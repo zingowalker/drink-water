@@ -53,7 +53,7 @@ function updateBigCup() {
 }
  
 var day = new Date()
-day.setFullYear(2021, 8, 6);
+day.setFullYear();
 document.getElementById('date').innerHTML = day;
 
 
